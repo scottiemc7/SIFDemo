@@ -1,6 +1,3 @@
-SIFDemo
-=======
-
 SIF Connect-a-thon 2013 demo app
 
 
